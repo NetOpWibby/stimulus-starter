@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://code.webb.page/Starters/stimulus-starter
-cd svelte-starter && rm -rf .git && npm i
+cd stimulus-starter && rm -rf .git && npm i
 ```
 
 ## Run

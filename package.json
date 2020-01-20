@@ -29,5 +29,5 @@
     "start": "node server.mjs",
     "test:dependencies": "updates --update ./"
   },
-  "version": "2020.01.18"
+  "version": "2020.01.20"
 }
